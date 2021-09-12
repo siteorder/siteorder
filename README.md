@@ -1,4 +1,4 @@
-![](https://github.com/siteorder/siteorder/blob/main/squirrel.png)
+![](https://github.com/siteorder/siteorder/blob/main/squirrel2.png)
 
 
 
